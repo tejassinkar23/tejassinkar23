@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is Tejas Sinkar
+
+Always looking forward to learn new things and enhance my skills, knowledge and experience. Being an Master in Computer Science, I have learnt various technical skills which will help me to perform well as a developer.
 
 <!--
 **tejassinkar23/tejassinkar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
