@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejassinkar23" alt="tejassinkar23" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps tools**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available on [https://github.com/tejassinkar23](https://github.com/tejassinkar23)
 
