@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tejassinkar2311@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Programming is like parenting - everyone thinks they're doing it wrong, but somehow it still works out in the end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
