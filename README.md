@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Sinkar</h1>
-<h3 align="center">Always looking forward to learn new things and enhance my skills, knowledge and experience. Being an Master in Computer Science, I have learnt various technical skills which will help me to perform well as a developer.</h3>
+<h4 align="center">Always looking forward to learn new things and enhance my skills, knowledge and experience. Being an Master in Computer Science, I have learnt various technical skills which will help me to perform well as a developer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejassinkar23&label=Profile%20views&color=0e75b6&style=flat" alt="tejassinkar23" /> </p>
 
