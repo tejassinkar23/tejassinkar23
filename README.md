@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Software Development, DevOps, AWS**
 
-- 📫 How to reach me **tejassinkar2311@gmail.com**
+- 📫 How to reach me **tejassinkar2311@gmail.com or +919511709545**
 
 - ⚡ Fun fact **Programming is like parenting - everyone thinks they're doing it wrong, but somehow it still works out in the end**
 
