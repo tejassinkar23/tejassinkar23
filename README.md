@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [https://github.com/tejassinkar23](https://github.com/tejassinkar23)
 
-- 💬 Ask me about **Python, Software Development, DevOps, AWS**
+- 💬 Ask me about **Python, Software Development, DevOps, AWS, Cloud Computing**
 
 - 📫 How to reach me **tejassinkar2311@gmail.com or +919511709545**
 
