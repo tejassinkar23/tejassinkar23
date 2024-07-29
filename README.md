@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Sinkar</h1>
 <h4 align="center">Always looking forward to learn new things and enhance my skills, knowledge and experience. Being an Master in Computer Science, I have learnt various technical skills which will help me to perform well as a developer.</h4>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejassinkar23" alt="tejassinkar23" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
